@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: Helvetica,Calibri,Arial,sans-serif;
+}
+
+.navbar {
+    background-color: #000;
+    color: white;
+    overflow: hidden;
+    padding: 1em 1.8em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.navbar-2 {
+    background-color: #000;
+    color: white;
+    overflow: hidden;
+    padding: 1em 1.8em;
+    position: fixed;
+    bottom: 75;
+    width: 100%;
+}
+
+.learn-more a {
+    color: #888;
+}
+
+p {
+    float: left;
+    margin-left: 10px;
+}
+
+
+button {
+    float: right;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    margin-right: 50px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color:rgb(241, 214, 0);
+    border: 0;
+}
+
+button a {
+    color: #000;
+}
+
